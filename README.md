@@ -1,4 +1,4 @@
-# Business Performance Dashboards (Global Superstore)/Retail/PowerBI
+# Retail Business Performance Dashboards (Global Superstore)/PowerBI
 A Power BI dashboard analyzing global retail sales to identify top markets and product categories, supporting data-driven expansion and strategy. It covers the full pipeline: data transformation, relationship modeling, and interactive visualization in Microsoft Power BI Desktop.
 
 <img width="1254" height="810" alt="image" src="https://github.com/user-attachments/assets/9a37fcf9-3b82-4b9c-a643-dcdd8c91570d" />
